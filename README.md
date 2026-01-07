@@ -41,7 +41,7 @@ Learning by building **practical projects**.
 
 ## 📊 GitHub Stats
 
-<img src="https://camo.githubusercontent.com/79923620a74e0495aa4e49670bf818bd0aad30ad5f4cf16c0e0f5ee880ee5280/68747470733a2f2f6e69727a616b2d73747265616b2d73746174732e76657263656c2e6170702f3f757365723d636f646572756861616e32303034267468656d653d6461726b26686964655f626f726465723d66616c7365" alt="" data-canonical-src="https://nirzak-streak-stats.vercel.app/?user=vaibhavmangla07&amp;theme=dark&amp;hide_border=false" style="max-width: 100%;">
+<picture> <source srcset="https://github-readme-stats.vercel.app/api?username=vaibhavmangla07&show_icons=true&theme=dark" media="(prefers-color-scheme: dark)" /> <source srcset="https://github-readme-stats.vercel.app/api?username=vaibhavmangla07&show_icons=true&theme=default" media="(prefers-color-scheme: light)" /> <img src="https://github-readme-stats.vercel.app/api?username=vaibhavmangla07&show_icons=true" alt="GitHub Stats" /> </picture> <picture> <source srcset="https://streak-stats.demolab.com?user=vaibhavmangla07&theme=dark" media="(prefers-color-scheme: dark)" /> <source srcset="https://streak-stats.demolab.com?user=vaibhavmangla07&theme=default" media="(prefers-color-scheme: light)" /> <img src="https://streak-stats.demolab.com?user=vaibhavmangla07" alt="GitHub Streak" /> </picture>
 
 
 
