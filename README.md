@@ -23,6 +23,9 @@ Learning through **real projects**, not just theory.
 ---
 
 ## 📊 GitHub Stats
-![Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaibhavmangla07&show_icons=true&theme=dark)
+## 📊 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=vaibhavmangla07&theme=dark)
+<img src="https://github-readme-stats.vercel.app/api?username=vaibhavmangla07&show_icons=true&theme=dark&cache_seconds=86400" />
+
+<img src="https://streak-stats.demolab.com?user=vaibhavmangla07&theme=dark&cache_seconds=86400" />
+
