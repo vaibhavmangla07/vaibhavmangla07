@@ -40,7 +40,6 @@ Learning by building **practical projects**.
 ---
 
 ## 📊 GitHub Stats
-## 📊 GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=vaibhavmangla07&show_icons=true&theme=transparent" />
 
