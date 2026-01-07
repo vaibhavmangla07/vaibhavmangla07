@@ -33,11 +33,35 @@ Learning by building **practical projects**, not just tutorials.
 ---
 
 ## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/YOUR_LEETCODE)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yourmail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/vaibhav-mangla-097b92219/))
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/Vaibhav_Mangla)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vmangla0704@gmail.com)
 
 ---
 
 ## 📊 GitHub Stats
-<img src="https://camo.githubusercontent.com/8ede5b9d6e7c206c8df31e4cfe166a6035b81243c5f7f40944331acc42f9f19f/68747470733a2f2f6e69727a616b2d73747265616b2d73746174732e76657263656c2e6170702f3f757365723d636173616e6f7661323539267468656d653d6461726b26686964655f626f726465723d66616c7365" />
+
+<picture>
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api?username=vaibhavmangla07&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)" />
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api?username=vaibhavmangla07&show_icons=true&theme=default"
+    media="(prefers-color-scheme: light)" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=vaibhavmangla07&show_icons=true"
+    alt="GitHub Stats" />
+</picture>
+
+<picture>
+  <source 
+    srcset="https://streak-stats.demolab.com?user=vaibhavmangla07&theme=dark"
+    media="(prefers-color-scheme: dark)" />
+  <source 
+    srcset="https://streak-stats.demolab.com?user=vaibhavmangla07&theme=default"
+    media="(prefers-color-scheme: light)" />
+  <img 
+    src="https://streak-stats.demolab.com?user=vaibhavmangla07"
+    alt="GitHub Streak" />
+</picture>
+
