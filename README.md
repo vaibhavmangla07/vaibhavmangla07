@@ -43,6 +43,5 @@ Learning by building **practical projects**.
 
 <img src="https://github-readme-stats.vercel.app/api?username=vaibhavmangla07&show_icons=true&theme=transparent" />
 
-<img src="https://streak-stats.demolab.com?user=vaibhavmangla07&theme=transparent" />
 
 
