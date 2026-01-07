@@ -33,7 +33,7 @@ Learning by building **practical projects**.
 ---
 
 ## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/vaibhav-mangla-097b92219/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/vaibhav-mangla-097b92219/))
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/Vaibhav_Mangla)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vmangla0704@gmail.com)
 
