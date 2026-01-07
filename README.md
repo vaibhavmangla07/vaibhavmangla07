@@ -1,6 +1,6 @@
 ## 👋 About Me
 Computer Science Engineering student focused on **Python development, data handling, and real-world problem solving**.  
-Learning by building **practical projects**, not just tutorials.
+Learning by building **practical projects**.
 
 ---
 
