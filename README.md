@@ -41,7 +41,7 @@ Learning by building **practical projects**.
 
 ## 📊 GitHub Stats
 
-<picture> <source srcset="https://github-readme-stats.vercel.app/api?username=vaibhavmangla07&show_icons=true&theme=dark" media="(prefers-color-scheme: dark)" /> <source srcset="https://github-readme-stats.vercel.app/api?username=vaibhavmangla07&show_icons=true&theme=default" media="(prefers-color-scheme: light)" /> <img src="https://github-readme-stats.vercel.app/api?username=vaibhavmangla07&show_icons=true" alt="GitHub Stats" /> </picture> <picture> <source srcset="https://streak-stats.demolab.com?user=vaibhavmangla07&theme=dark" media="(prefers-color-scheme: dark)" /> <source srcset="https://streak-stats.demolab.com?user=vaibhavmangla07&theme=default" media="(prefers-color-scheme: light)" /> <img src="https://streak-stats.demolab.com?user=vaibhavmangla07" alt="GitHub Streak" /> </picture>
+<img src="https://github-readme-stats.vercel.app/api?username=vaibhavmangla07&theme=default&show_icons=true&hide_border=true&count_private=true" alt="vaibhavmangla07's GitHub Stats" />
 
 
 
